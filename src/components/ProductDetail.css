@@ -1,0 +1,18 @@
+/* ProductDetail.css */
+.product-detail {
+    border: 1px solid #e1e1e1;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff; /* Fondo blanco para resaltar el detalle del producto */
+  }
+  
+  .product-detail h2 {
+    color: #333;
+  }
+  
+  .product-detail p {
+    margin: 10px 0;
+  }
+  
